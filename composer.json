@@ -1,5 +1,5 @@
 {
-    "name": "CatmanVrn/EFTest",
+    "name": "catmanvrn/eftest",
     "description": "Integration organization structure from xlsx file",
     "license": "none",
     "autoload": {
