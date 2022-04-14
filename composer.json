@@ -1,0 +1,21 @@
+{
+    "name": "CatmanVrn/EFTest",
+    "description": "Integration organization structure from xlsx file",
+    "license": "none",
+    "autoload": {
+        "psr-4": {
+            "CatmanVrn\\EFTest\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erofeev Ilya",
+            "email": "iluu1@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0",
+        "ext-json": "*",
+        "shuchkin/simplexlsx": "^1.0"
+    }
+}
